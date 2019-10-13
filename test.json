@@ -1,0 +1,26 @@
+[
+ {
+  "PRODUCT": "0001002",
+  "CATEGORY": "mobile",
+  "COST": "643,50€",
+  "QUANTITY": "10"
+ },
+ {
+  "PRODUCT": "0011002",
+  "CATEGORY": "car",
+  "COST": "21.000.643€",
+  "QUANTITY": "1"
+ },
+ {
+  "PRODUCT": "0001002",
+  "CATEGORY": "mobile",
+  "COST": "643,50€",
+  "QUANTITY": "5"
+ },
+ {
+  "PRODUCT": "0001002",
+  "CATEGORY": "stickers",
+  "COST": "0,10€",
+  "QUANTITY": "1.000"
+ }
+]
