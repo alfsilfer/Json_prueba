@@ -1,1 +1,0 @@
-var myData = JSON.parse(data)
